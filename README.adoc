@@ -1,4 +1,4 @@
-= Peti's Java Performance Issues examples
+= Some code examples in Java 8 to illustrate typical performance issues
 Peti Koch
 :imagesdir: ./docs
 :project-name: Java_Performance_Issues
