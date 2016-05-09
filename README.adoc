@@ -1,0 +1,18 @@
+= Peti's Java Performance Issues examples
+Peti Koch
+:imagesdir: ./docs
+:project-name: Java_Performance_Issues
+:github-branch: master
+:github-user: Petikoch
+:bintray-user: petikoch
+
+image:https://travis-ci.org/{github-user}/{project-name}.svg?branch={github-branch}["Build Status", link="https://travis-ci.org/{github-user}/{project-name}"]
+
+== Introduction
+
+In this project are a couple of typical performance issues. Main goal: Play with performance analysis tools
+like JVisualVM or https://github.com/denkbar/djigger
+
+Best regards,
+
+image::Signature.jpg[]
