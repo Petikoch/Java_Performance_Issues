@@ -22,7 +22,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * A typical Deadlock situation
  */
-public class DeadlockIssue {
+public class Deadlock2Issue {
 
 	public static void main(String[] args) {
 		System.out.println(ManagementFactory.getRuntimeMXBean().getName());
