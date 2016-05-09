@@ -6,8 +6,10 @@ Peti Koch
 :github-user: Petikoch
 :bintray-user: petikoch
 
-In this project are a couple of typical performance issues. Main goal: Play with performance analysis tools
-like JVisualVM or https://github.com/denkbar/djigger
+In this project are a couple of typical performance issues.
+
+Main goal: Play with performance analysis tools
+like JVisualVM or https://github.com/denkbar/djigger.
 
 Best regards,
 
