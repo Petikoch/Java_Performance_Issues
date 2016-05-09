@@ -17,11 +17,9 @@ repositories {
 }
 
 def googleGuavaVersion = '19.0'
-def rxJavaVersion = '1.1.5'
 
 dependencies {
     compile "com.google.guava:guava:${googleGuavaVersion}"
-    compile "io.reactivex:rxjava:${rxJavaVersion}"
 }
 
 test {
